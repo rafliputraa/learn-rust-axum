@@ -1,1 +1,7 @@
-/target
+
+*
+
+!./src
+!./tests
+!Cargo.toml
+!Cargo.lock
