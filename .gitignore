@@ -1,7 +1,6 @@
-
+# Ignore everything:
 *
 
-!./src
-!./tests
 !Cargo.toml
-!Cargo.lock
+!src
+!tests
